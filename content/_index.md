@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Title need to be edited
       subtitle:
       text:
       count: 5
