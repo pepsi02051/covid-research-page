@@ -1,7 +1,17 @@
 ---
 title: 'Comparative cost-effectiveness of SARS-CoV-2 testing strategies in the USA: a modelling study'
 authors:
-  - Zhanwei Du PhD, Abhishek Pandey PhD, Yuan Bai PhD, Meagan C Fitzpatrick PhD, Matteo Chinazzi PhD , Ana Pastore y Piontti PhD , Prof Michael Lachmann PhD , Prof Alessandro Vespignani PhD , Prof Benjamin J Cowling PhD , Prof Alison P Galvani PhD , Prof Lauren Ancel Meyers PhD
+  - Zhanwei Du PhD 
+  - Abhishek Pandey PhD
+  - Yuan Bai PhD
+  - Meagan C Fitzpatrick PhD
+  - Matteo Chinazzi PhD
+  - Ana Pastore y Piontti PhD
+  - Prof Michael Lachmann PhD
+  - Prof Alessandro Vespignani PhD 
+  - Prof Benjamin J Cowling PhD 
+  - Prof Alison P Galvani PhD 
+  - Prof Lauren Ancel Meyers PhD
 #author_notes:
 #  - 'Equal contribution'
  
