@@ -1,7 +1,7 @@
 ---
-title: 'An example conference paper'
+title: 'Modeling comparative cost-effectiveness of SARS-CoV-2 vaccine dose fractionation in India'
 authors:
-  - admin
+  - Zhanwei Du, Lin Wang, Abhishek Pandey, Wey Wen Lim, Matteo Chinazzi, Ana Pastore y. Piontti, Eric H. Y. Lau, Peng Wu, Anup Malani, Sarah Cobey & Benjamin J. Cowling
   - Robert Ford
 date: '2013-07-01T00:00:00Z'
 doi: ''
