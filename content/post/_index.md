@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Example Article
 
 # Listing view
 view: compact
