@@ -8,7 +8,18 @@ organizations:
 superuser: false
 authors:
   - 杜占玮
-bio: Need to be edited
+bio:
+Dr. Zhanwei Du works as an Assistant Professor (Research) in the School of Public Health, The University of Hong Kong
+(HKU). He received his PhD in Computer Science from Jilin University in 2015. Before joining HKU, he was a postdoc fellow at
+the Hong Kong Baptist University during 2015-2016 and the University of Texas at Austin during 2016-2020, and a research
+associate at the University of Texas at Austin in 2020. His general research area is computational epidemiology, machine
+learning, and data science. He mainly focuses on modeling complex phenomena in biological and social systems. The
+applications include computational social science with an emphasis on smart city and computational biology covering a wide
+range of communicable and non-communicable diseases (e.g., COVID-19, influenza, Ebola, sexual transmission infections, and
+cancer). 
+
+
+
 interests:
   - Computational Epidemiology
   - Network Epidemiology
