@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Coivd-19
 date: 2022-10-24
 
 type: landing
