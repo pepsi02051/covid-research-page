@@ -1,7 +1,6 @@
 ---
 title: Zhanwei Du 杜占玮
 role: Research Assistant Professor
-avatar_filename: ProfessorDu.jpg
 organizations:
   - name: Hong Kong University
     url: ""
