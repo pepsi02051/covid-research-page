@@ -7,18 +7,18 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
+  - name: To-be-decided
     url: post
     weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Events
+  - name: To-be-decided
     url: event
     weight: 40
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
+  - name: To-be-decided
     url: contact
     weight: 60
