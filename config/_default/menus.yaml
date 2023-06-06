@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Covid-19
+  - name: Covid
     url: tour
-    weight: 60
-  - name: To-be-decided
+    weight: 10
+  - name: TBD
     url: post
-    weight: 60
+    weight: 20
   - name: People
     url: people
     weight: 30
-  - name: To-be-decided
+  - name: TBD
     url: event
-    weight: 60
+    weight: 40
   - name: Publications
     url: publication
     weight: 50
-  - name: To-be-decided
+  - name: TBD
     url: contact
     weight: 60
