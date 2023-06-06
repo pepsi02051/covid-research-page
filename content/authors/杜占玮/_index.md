@@ -8,7 +8,7 @@ organizations:
 superuser: false
 authors:
   - 杜占玮
-bio: bio test
+bio: Assistant Professor (Research) in the School of Public Health, The University of Hong Kong (HKU).
 interests:
   - Computational Epidemiology
   - Network Epidemiology
