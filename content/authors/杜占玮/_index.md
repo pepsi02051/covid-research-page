@@ -40,6 +40,7 @@ education:
 email: ""
 user_groups:
   - Researchers
+  - admin
 last_name: Du
 first_name: Zhanwei
 ---
