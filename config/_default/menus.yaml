@@ -5,7 +5,7 @@
 
 main:
   - name: To be decided 
-    url: tour
+    url: Coivd-19
     weight: 10
   - name: To be decided 
     url: post
