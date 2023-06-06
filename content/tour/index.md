@@ -18,22 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Covid-19
+        content: 'content need to be decided'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: banner-covid-19.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Pandemic Fatigue
+        content: 'Content to be decided!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: pandemicFatigue.jpg
             filters:
               brightness: 0.5
           position: center
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: This link to be decided
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
