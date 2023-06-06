@@ -4,7 +4,7 @@ authors:
   - Zhanwei Du, Lin Wang, Abhishek Pandey, Wey Wen Lim, Matteo Chinazzi, Ana Pastore y. Piontti, Eric H. Y. Lau, Peng Wu, Anup Malani, Sarah Cobey & Benjamin J. Cowling
   - Robert Ford
 date: '2022-02-24T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1038/s41591-022-01736-z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-02-24T00:00:00Z'
