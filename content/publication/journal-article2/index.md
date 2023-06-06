@@ -28,7 +28,7 @@ doi: 'https://www.sciencedirect.com/science/article/pii/S2468266721000025#ceab10
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'Elsevier'
 publication_short: ''
 
 abstract: To mitigate the COVID-19 pandemic, countries worldwide have enacted unprecedented movement restrictions, physical distancing measures, and face mask requirements. Until safe and efficacious vaccines or antiviral drugs become widely available, viral testing remains the primary mitigation measure for rapid identification and isolation of infected individuals. We aimed to assess the economic trade-offs of expanding and accelerating testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) across the USA in different transmission scenarios.
