@@ -11,7 +11,7 @@ sections:
         Covid19
         Pandemic Fatigue
       image:
-        filename: welcome.jpg
+        filename: COVID-19_banner.png
       text: |
         <br>
         
