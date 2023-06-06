@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Covid19
+        Pandemic Fatigue
       image:
         filename: welcome.jpg
       text: |
