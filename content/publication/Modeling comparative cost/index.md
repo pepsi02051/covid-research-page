@@ -21,7 +21,7 @@ publication_types: ['2']
 #publication: In *Nature Medicine*
 #publication_short: In *NM*
 
-abstract: Given global Coronavirus Disease 2019 (COVID-19) vaccine shortages and inequity of vaccine distributions, fractionation of vaccine doses might be an effective strategy for reducing public health and economic burden, notwithstanding the emergence of new variants of concern. In this study, we developed a multi-scale model incorporating population-level transmission and individual-level vaccination to estimate the costs of hospitalization and vaccination and the economic benefits of reducing COVID-19 deaths due to dose-fractionation strategies in India. We used large-scale survey data of the willingness to pay together with data of vaccine and hospital admission costs to build the model. We found that fractional doses of vaccines could be an economically viable vaccination strategy compared to alternatives of either full-dose vaccination or no vaccination. Dose-sparing strategies could save a large number of lives, even with the emergence of new variants with higher transmissibility.
+abstract: This is a test abstract #Given global Coronavirus Disease 2019 (COVID-19) vaccine shortages and inequity of vaccine distributions, fractionation of vaccine doses might be an effective strategy for reducing public health and economic burden, notwithstanding the emergence of new variants of concern. In this study, we developed a multi-scale model incorporating population-level transmission and individual-level vaccination to estimate the costs of hospitalization and vaccination and the economic benefits of reducing COVID-19 deaths due to dose-fractionation strategies in India. We used large-scale survey data of the willingness to pay together with data of vaccine and hospital admission costs to build the model. We found that fractional doses of vaccines could be an economically viable vaccination strategy compared to alternatives of either full-dose vaccination or no vaccination. Dose-sparing strategies could save a large number of lives, even with the emergence of new variants with higher transmissibility.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +47,7 @@ featured: true
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
