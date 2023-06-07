@@ -7,11 +7,11 @@ authors:
   - Meagan C Fitzpatrick 
   - Matteo Chinazzi 
   - Ana Pastore y Piontti 
-  - Prof Michael Lachmann 
-  - Prof Alessandro Vespignani  
-  - Prof Benjamin J Cowling  
-  - Prof Alison P Galvani  
-  - Prof Lauren Ancel Meyers 
+  - Michael Lachmann 
+  - Alessandro Vespignani  
+  - Benjamin J Cowling  
+  - Alison P Galvani  
+  - Lauren Ancel Meyers 
 #author_notes:
 #  - 'Equal contribution'
  
