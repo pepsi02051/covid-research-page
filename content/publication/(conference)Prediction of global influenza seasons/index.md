@@ -1,7 +1,17 @@
 ---
 title: 'Prediction of global influenza seasons during post-covid-19 pandemic.'
 authors:
-  - Sheikh Taslim Ali, Songwei Shan, Y. C. Lau, S. Ryu, Zhanwei Du, Lin Wang, Xiaoke Xu, Dongxuan Chen, J. Tae, Peng Wu, Eric H. Y. Lau, Gabriel Matthew Leung, Benjamin J. Cowling.
+  - Sheikh Taslim Ali 
+  - Songwei Shan 
+  - Y. C. Lau 
+  - S. Ryu, Zhanwei Du 
+  - Lin Wang 
+  - Xiaoke Xu 
+  - Dongxuan Chen 
+  - J. Tae, Peng Wu 
+  - Eric H. Y. Lau 
+  - Gabriel Matthew Leung 
+  - Benjamin J. Cowling
 date: '2021-01-01T00:00:00Z'
 doi: ''
 
