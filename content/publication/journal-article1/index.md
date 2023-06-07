@@ -1,9 +1,11 @@
 ---
 title: 'Modeling comparative cost-effectiveness of SARS-CoV-2 vaccine dose fractionation in India'
+date: '2022-02-24T00:00:00Z'
+
 authors:
   - Zhanwei Du, Lin Wang, Abhishek Pandey, Wey Wen Lim, Matteo Chinazzi, Ana Pastore y. Piontti, Eric H. Y. Lau, Peng Wu, Anup Malani, Sarah Cobey & Benjamin J. Cowling
   
-date: '2022-02-24T00:00:00Z'
+
 doi: 'https://doi.org/10.1038/s41591-022-01736-z'
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +30,10 @@ tags:
   - Source Themes
 featured: true
 
-links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: https://www.nature.com/articles/s41591-022-01736-z.pdf
+#links:
+#  - name: Custom Link
+#    url: http://example.org
+#url_pdf: https://www.nature.com/articles/s41591-022-01736-z.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
