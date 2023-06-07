@@ -28,17 +28,17 @@ doi: 'https://www.sciencedirect.com/science/article/pii/S2468266721000025#ceab10
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Elsevier'
-publication_short: ''
+#publication: 'Elsevier'
+#publication_short: ''
 
 abstract: To mitigate the COVID-19 pandemic, countries worldwide have enacted unprecedented movement restrictions, physical distancing measures, and face mask requirements. Until safe and efficacious vaccines or antiviral drugs become widely available, viral testing remains the primary mitigation measure for rapid identification and isolation of infected individuals. We aimed to assess the economic trade-offs of expanding and accelerating testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) across the USA in different transmission scenarios.
 
 # Summary. An optional shortened abstract.
-summary: Our modelling showed that daily testing combined with a 2-week isolation period was the most costly strategy considered, reflecting increased costs with greater test frequency and length of isolation period. Assuming a societal willingness to pay of US$100 000 per YLL averted and a price of $5 per test, the strategy most likely to be cost-effective under a rapid transmission scenario (Re of 2·2) is weekly testing followed by a 2-week isolation period subsequent to a positive test result. Under low transmission scenarios (Re of 1·2), monthly testing of the population followed by 1-week isolation rather than 2-week isolation is likely to be most cost-effective. Expanded surveillance testing is more likely to be cost-effective than the status-quo testing strategy if the price per test is less than $75 across all transmission rates considered.
+#summary: Our modelling showed that daily testing combined with a 2-week isolation period was the most costly strategy considered, reflecting increased costs with greater test frequency and length of isolation period. Assuming a societal willingness to pay of US$100 000 per YLL averted and a price of $5 per test, the strategy most likely to be cost-effective under a rapid transmission scenario (Re of 2·2) is weekly testing followed by a 2-week isolation period subsequent to a positive test result. Under low transmission scenarios (Re of 1·2), monthly testing of the population followed by 1-week isolation rather than 2-week isolation is likely to be most cost-effective. Expanded surveillance testing is more likely to be cost-effective than the status-quo testing strategy if the price per test is less than $75 across all transmission rates considered.
 
 tags:
   - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -64,7 +64,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+  - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
