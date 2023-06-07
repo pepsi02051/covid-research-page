@@ -1,10 +1,10 @@
 ---
 title: 'Modeling comparative cost-effectiveness of SARS-CoV-2 vaccine dose fractionation in India'
-date: '2022-02-24T00:00:00Z'
 
 authors:
   - Zhanwei Du, Lin Wang, Abhishek Pandey, Wey Wen Lim, Matteo Chinazzi, Ana Pastore y. Piontti, Eric H. Y. Lau, Peng Wu, Anup Malani, Sarah Cobey & Benjamin J. Cowling
-  
+date: '2022-02-24T00:00:00Z'
+
 
 doi: 'https://doi.org/10.1038/s41591-022-01736-z'
 
@@ -18,8 +18,8 @@ publishDate: '2022-02-24T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Medicine*
-publication_short: In *NM*
+#publication: In *Nature Medicine*
+#publication_short: In *NM*
 
 abstract: Given global Coronavirus Disease 2019 (COVID-19) vaccine shortages and inequity of vaccine distributions, fractionation of vaccine doses might be an effective strategy for reducing public health and economic burden, notwithstanding the emergence of new variants of concern. In this study, we developed a multi-scale model incorporating population-level transmission and individual-level vaccination to estimate the costs of hospitalization and vaccination and the economic benefits of reducing COVID-19 deaths due to dose-fractionation strategies in India. We used large-scale survey data of the willingness to pay together with data of vaccine and hospital admission costs to build the model. We found that fractional doses of vaccines could be an economically viable vaccination strategy compared to alternatives of either full-dose vaccination or no vaccination. Dose-sparing strategies could save a large number of lives, even with the emergence of new variants with higher transmissibility.
 
