@@ -5,7 +5,7 @@ role: Research Assistant Professor
 organizations:
   - name: Hong Kong University
     url: "https://sph.hku.hk/en/Biography/Du-Zhanwei"
-superuser: false
+superuser: true
 authors:
   - 杜占玮
 bio: Assistant Professor (Research) in the School of Public Health, The University of Hong Kong (HKU).
@@ -16,12 +16,12 @@ interests:
   - Viral Dynamics
   - Antiviral effectiveness
 social:
-  - icon: Need to be edited
-    icon_pack: Need to be edited
-    link: Need to be edited
-  - icon: Need to be edited
-    icon_pack: Need to be edited
-    link: Need to be edited
+  - icon: envelope
+    icon_pack: fas
+    link: "zwdu@hku.hk"
+  - icon: researchgate
+    icon_pack: ai
+    link: "https://www.researchgate.net/profile/Zhanwei-Du"
   - icon: Need to be edited
     icon_pack: Need to be edited
     link: Need to be edited
