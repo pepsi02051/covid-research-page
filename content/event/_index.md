@@ -1,5 +1,5 @@
 ---
-title: Research Activites
+title: To be decided
 
 # Listing view
 view: compact

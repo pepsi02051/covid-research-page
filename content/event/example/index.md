@@ -1,28 +1,28 @@
 ---
-title: Example reasearch
+title: To be decided
 
-event: Example research
+event: To be decided
 event_url: ''
 
-location: Wowchemy HQ
+location: HKSTP
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: W19 Sha Tin
+  city: Hong Kong
+  region: HK
+  postcode: '0000'
+  country: Hong kong China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: To be decided
+abstract: '@@@@@@@@@@@@ We still working on this part @@@@@@@@@@@@'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-06-08T13:00:00Z'
+date_end: '2023-06-08T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-08T00:00:00Z'
 
 authors: []
 tags: []
