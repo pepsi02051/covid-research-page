@@ -1,8 +1,8 @@
 ---
 title: Example reasearch
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Example research
+event_url: ''
 
 location: Wowchemy HQ
 address:
