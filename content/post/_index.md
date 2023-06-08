@@ -2,7 +2,7 @@
 title: Research Activities
 
 # Listing view
-view: card
+view: masonry
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
