@@ -7,13 +7,13 @@ main:
   - name: Covid-19
     url: tour
     weight: 10
-  - name: Article
+  - name: Research 
     url: post
     weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Research
+  - name: To be decided 
     url: event
     weight: 40
   - name: Publications
