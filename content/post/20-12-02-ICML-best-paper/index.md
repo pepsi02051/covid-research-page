@@ -1,12 +1,12 @@
 ---
-title: This is an example article
+title: This is an example research 2
 date: xxxx-xx-xx
 image:
   focal_point: 'top'
 ---
 
-This is an example short content
+@@@@@@@@@@@@@@@ We are still working on this page @@@@@@@@@@@@@@@
 
 <!--more-->
 
-This is an example full content
+@@@@@@@@@@@@@@@ We are still working on this page @@@@@@@@@@@@@@@
