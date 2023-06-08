@@ -41,8 +41,8 @@ education:
       year: 2005-2009
 email: "zwdu@hku.hk"
 user_groups:
-  - Researchers
-  - admin
+  - Head of Research
+  
 last_name: Du
 first_name: Zhanwei
 ---
