@@ -2,7 +2,8 @@
 title: Research Activities
 
 # Listing view
-view: Showcase
+view: showcase
+
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
