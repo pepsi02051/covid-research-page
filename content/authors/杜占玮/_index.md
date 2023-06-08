@@ -39,7 +39,7 @@ education:
     - course: Bachelor of Science in Computer Science 
       institution: Changchun Technology University,Changchun ,China
       year: 2005-2009
-email: ""
+email: "zwdu@hku.hk"
 user_groups:
   - Researchers
   - admin
