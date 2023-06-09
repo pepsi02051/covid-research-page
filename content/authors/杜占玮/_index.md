@@ -1,9 +1,9 @@
 ---
 title: Zhanwei Du 杜占玮
-role: Research Assistant Professor            .               Ph.D. supervisor
+role: Research Assistant Professor and PhD Supervisor in Hong Kong University      
 
 organizations:
-  - name: Hong Kong University                 .             Public Health Department
+  - name: Department of Public Health in Hong Kong University
     url: "https://sph.hku.hk/en/Biography/Du-Zhanwei"
 superuser: true
 authors:
