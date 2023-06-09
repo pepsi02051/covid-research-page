@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
  
 date: '2021-03-01T00:00:00Z'
-doi: 'https://www.sciencedirect.com/science/article/pii/S2468266721000025#ceab10'
+doi: 'https://doi.org/10.1016/S2468-2667(21)00002-5'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
