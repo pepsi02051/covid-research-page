@@ -11,7 +11,7 @@ authors:
 bio: Assistant Professor (Research) in the School of Public Health, The University of Hong Kong (HKU).
 interests:
   - Computational Infectiology and Epidemiology
-  
+  - (Interdisciplinary) - Research on Mathematical Modeling of Complex Systems Driven by Data
 social:
   - icon: envelope
     icon_pack: fas
