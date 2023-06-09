@@ -10,11 +10,8 @@ authors:
   - 杜占玮
 bio: Assistant Professor (Research) in the School of Public Health, The University of Hong Kong (HKU).
 interests:
-  - Computational Epidemiology
-  - Network Epidemiology
-  - NInfectious Disease
-  - Viral Dynamics
-  - Antiviral effectiveness
+  - Computational Infectiology and Epidemiology
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +36,8 @@ education:
     - course: Bachelor of Science in Computer Science 
       institution: Changchun Technology University,Changchun ,China
       year: 2005-2009
+Academic Positions:
+  - Assistant Professor (Research), School of Public Health, University of Hong Kong, Hong Kong, China (2020-)
 email: "zwdu@hku.hk"
 user_groups:
   - Head of Research
