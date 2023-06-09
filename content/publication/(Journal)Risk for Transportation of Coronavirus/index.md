@@ -4,13 +4,13 @@ title: ' Risk for Transportation of Coronavirus Disease from Wuhan to Other Citi
 authors:
   - Zhanwei Du, et al.
   
-date: '2021T00:00:00Z'
+date: '2020-05-26T00:00:00Z'
 
 
-doi: 'https://doi.org/10.1038/s41591-022-01736-z'
+doi: '10.3201/eid2605.200146'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021T00:00:00Z'
+publishDate: '2020-05-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,8 @@ publication_types: ['2']
 #publication: In *Nature Medicine*
 #publication_short: In *NM*
 
-abstract: This is a test abstract #Given global Coronavirus Disease 2019 (COVID-19) vaccine shortages and inequity of vaccine distributions, fractionation of vaccine doses might be an effective strategy for reducing public health and economic burden, notwithstanding the emergence of new variants of concern. In this study, we developed a multi-scale model incorporating population-level transmission and individual-level vaccination to estimate the costs of hospitalization and vaccination and the economic benefits of reducing COVID-19 deaths due to dose-fractionation strategies in India. We used large-scale survey data of the willingness to pay together with data of vaccine and hospital admission costs to build the model. We found that fractional doses of vaccines could be an economically viable vaccination strategy compared to alternatives of either full-dose vaccination or no vaccination. Dose-sparing strategies could save a large number of lives, even with the emergence of new variants with higher transmissibility.
+abstract: On January 23, 2020, China quarantined Wuhan to contain coronavirus disease (COVID-19). We estimated the probability of transportation of COVID-19 from Wuhan to 369 other cities in China before the quarantine. Expected COVID-19 risk is >50% in 130 (95% CI 89–190) cities and >99% in the 4 largest metropolitan areas.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
