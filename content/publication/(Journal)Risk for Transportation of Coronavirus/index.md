@@ -1,8 +1,15 @@
 ---
-title: ' Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China.'
+title: 'Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China.'
 
 authors:
-  - Zhanwei Du, et al.
+  - Zhanwei Du
+  - Lin Wan
+  - Simon Cauchemez
+  - Xiaoke Xu
+  - Xianwen Wang
+  - Benjamin J. Cowling
+  - Lauren Ancel Meyers
+  
   
 date: '2020-05-26T00:00:00Z'
 
