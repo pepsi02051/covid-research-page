@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Covid19
-        Pandemic Fatigue
+        Computational Sociology & Epidemiology
       image:
         filename: COVID-19_banner.png
       text: |
